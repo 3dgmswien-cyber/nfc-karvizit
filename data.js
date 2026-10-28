@@ -8,7 +8,7 @@ window.KARTLAR = [
   },
   {
     "id": "omerkaptan",
-    "isim": "ÖMER",
+    "isim": "Ömer",
     "soyisim": "Kasap",
     "telefon": "+436606752121",
     "ornek": false
